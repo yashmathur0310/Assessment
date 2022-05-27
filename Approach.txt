@@ -1,0 +1,12 @@
+Performed eda on the training dataset to find the correlation between SalePrice and other columns
+Understood the distribution of various columns ( numerical and categorically)
+Found the count distribution of each categorical columns
+Found the mean,median and mode of each numerical columns
+
+For Machine Learning--- 
+Dropped the columns which were having more than 40 percent null values
+label encoded the categorical columns 
+implemented linear regression , xgboost ,random forest 
+calcaluate the metrics to find the best performing algorithm 
+Predicted the price on testing dataset using the best algorithm
+the final submisssion is containing the predicted prices with id 
